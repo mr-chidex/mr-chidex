@@ -2,7 +2,7 @@
 
 I am a backend developer with hands on Node, MongoDb, Express, ReactJs, Redux, MySql and bootstrap
 
-🌱 I’m currently focusing on improvimg my React skills
+🌱 I’m currently focusing on improvimg my ReactJs and React Native skills
 
 ⚡ Fun fact: I love chess and scrabble
 
