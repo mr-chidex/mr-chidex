@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Chimobi Mbah a.k.a Mr-Chidex
 
-I am a backend developer with hands on Node, MongoDb, Express, ReactJs, Redux, MySql and bootstrap
+I am a web developer with hands on Node, MongoDb, Express, ReactJs, Redux, MySql, SASS and bootstrap
 
-🌱 I’m currently focusing on improvimg my ReactJs and React Native skills
+🌱 I’m currently focusing on improvimg my Next JS and React Native skills
 
 ⚡ Fun fact: I love chess and scrabble
 
