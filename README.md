@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Chimobi Mbah a.k.a Mr-Chidex
+### Hi there 👋 I'm Chimobi Mbah
 
 I am a web developer with hands on Node, MongoDb, Express, ReactJs, Redux, MySql, SASS and bootstrap
 
