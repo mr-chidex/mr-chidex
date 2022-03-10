@@ -1,12 +1,11 @@
-### Hi there 👋 I'm Chimobi Mbah
-
-Experience working with Node JS, Mongo DB, Express JS, React JS, Redux, MySql, SASS, Material UI, Next JS and Bootstrap
-
-- 🌱 I’m currently focusing on improvimg my React Native and Flutter skills
-- 🌱 I’m currently learning Typescript 
+<h3 align="center">👋 Hi, I'm Chimobi Mbah ✌️</h3>
+<p align="center">I am a Developer with experience working with Node JS, Mongo DB, Express JS, React JS, Redux, MySql, SASS, Material UI, Next JS and Bootstrap</p>
+- 🌱 I’m currently learning Typescript, React Native, and Flutter
 - ⚡ Fun fact: I love chess and scrabble
 - 😄 Pronouns: He
 - 👯 I’m looking to collaborate on React Native and Flutter projects
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-chidex&langs_count=5&theme=radical&hide=ruby )]()
 <!--
 **mr-chidex/mr-chidex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
