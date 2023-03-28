@@ -1,10 +1,9 @@
 <h3 align="center">👋 Hi, I'm Chimobi Mbah ✌️</h3>
-<p >I am a Developer with experience working with Node JS, Mongo DB, Express JS, Jest, GraphQL, React JS, Redux, Postgres, TypeORM, MySql, SASS, Typescript, Material UI, Next JS, Tailwindcss and Bootstrap</p>
+<p >I am a Software Developer with experience working with NodeJS, MongoDB, ExpressJS, Jest, GraphQL, ReactJS, Redux, Postgres, Prisma, KnexORM, TypeORM, MySql, SASS, Typescript, MaterialUI, NextJS, Tailwindcss, and Bootstrap</p>
 
-- 🌱 I’m currently learning React Native, and Flutter
+- 🌱 I’m currently learning NestJS
 - ⚡ Fun fact: I love chess and scrabble
 - 😄 Pronouns: He
-- 👯 I’m looking to collaborate on React Native and Flutter projects
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-chidex&layout=compact&langs_count=7&theme=dracula )]()
 <!--
