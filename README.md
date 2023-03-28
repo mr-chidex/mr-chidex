@@ -2,7 +2,7 @@
 <p >I am a Software Developer with experience working with NodeJS, MongoDB, ExpressJS, Jest, GraphQL, ReactJS, Redux, Postgres, Prisma, KnexORM, TypeORM, MySql, SASS, Typescript, MaterialUI, NextJS, Tailwindcss, and Bootstrap</p>
 
 - 🌱 I’m currently learning NestJS
-- ⚡ Fun fact: I love chess and scrabble
+- ⚡ Fun fact: I love football, chess, and scrabble
 - 😄 Pronouns: He
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-chidex&layout=compact&langs_count=7&theme=dracula )]()
