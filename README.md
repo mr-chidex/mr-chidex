@@ -1,11 +1,35 @@
-<h3 align="center">👋 Hi, I'm Chimobi Mbah ✌️</h3>
-<p >I am a Software Developer with experience working with NodeJS, MongoDB, ExpressJS, Jest, GraphQL, ReactJS, Redux, Postgres, Prisma, KnexORM, TypeORM, MySql, SASS, Typescript, MaterialUI, NextJS, Tailwindcss, and Bootstrap</p>
+<div style="background-color: #1e1e1e;">
+<h2 style="color: #f2f2f2;">👋 Hi, I'm Chimobi Mbah ✌️</h3>
+<p >I am a Software Developer with experience working with NodeJS, MongoDB, ExpressJS, Jest, NestJS, Typescript, Postgres, Prisma, KnexORM, TypeORM, MySql, GraphQL, ReactJS, Redux, SASS, MaterialUI, NextJS, Tailwindcss, React Context API, React Query, Styled Components and Bootstrap</p>
 
-- 🌱 I’m currently learning NestJS
+<h3 style="color: #f2f2f2;">  💻 &nbsp; More About Me </h3>
+- 🎓 &nbsp; I’m currently learning NestJS
 - ⚡ Fun fact: I love football, chess, and scrabble
 - 😄 Pronouns: He
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-chidex&layout=compact&langs_count=7&theme=dracula )]()
+<br/>
+
+   <h3 style="color: #f2f2f2;"> ⚙️ &nbsp;GitHub Analytics</h3>
+<br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mr-chidex&show_icons=true&theme=algolia" />
+<img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-chidex&layout=compact&langs_count=8&theme=algolia"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-chidex&theme=algolia" />  
+
+</p>
+
+
+<br/>
+
+<h3 style="color: #f2f2f2;"> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p>
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/mr_chidex/)](https://twitter.com/mr_chidex/)
+
+</p>
+</div>
+
+
 <!--
 **mr-chidex/mr-chidex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
