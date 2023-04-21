@@ -3,9 +3,10 @@
 <p >I am a Software Developer with experience working with NodeJS, MongoDB, ExpressJS, Jest, NestJS, Typescript, Postgres, Prisma, KnexORM, TypeORM, MySql, GraphQL, ReactJS, Redux, SASS, MaterialUI, NextJS, Tailwindcss, React Context API, React Query, Styled Components and Bootstrap</p>
 
 <h3 style="color: #f2f2f2;">  💻 &nbsp; More About Me </h3>
+   
 - 🎓 &nbsp; I’m currently learning NestJS
-- ⚡ Fun fact: I love football, chess, and scrabble
-- 😄 Pronouns: He
+- ⚡ &nbsp; Fun fact: I love football, chess, and scrabble
+- 😄 &nbsp;Pronouns: He
 
 <br/>
 
@@ -19,14 +20,7 @@
 </p>
 
 
-<br/>
 
-<h3 style="color: #f2f2f2;"> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p>
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://www.twitter.com/mr_chidex/)](https://twitter.com/mr_chidex/)
-
-</p>
 </div>
 
 
