@@ -4,8 +4,7 @@
 
 <h3 style="color: #f2f2f2;">  💻 &nbsp; More About Me </h3>
    
-- 🎓 &nbsp; I’m currently learning NestJS
-- ⚡ &nbsp; Fun fact: I love football, chess, and scrabble
+- ⚡ &nbsp; Fun fact: I love football, chess, and Scrabble
 - 😄 &nbsp;Pronouns: He
 
 <br/>
@@ -28,7 +27,7 @@
 **mr-chidex/mr-chidex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🎓 &nbsp; I’m currently learning NestJS
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
