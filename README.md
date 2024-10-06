@@ -1,10 +1,10 @@
 <div style="background-color: #1e1e1e;">
 <h2 style="color: #f2f2f2;">👋 Hi, I'm Chimobi Mbah ✌️</h3>
-<p >I am a Software Developer with experience working with NodeJS, MongoDB, ExpressJS, Jest, NestJS, Typescript, Postgres, Prisma, KnexORM, TypeORM, MySql, GraphQL, ReactJS, Redux, SASS, MaterialUI, NextJS, Tailwindcss, React Context API, React Query, Styled Components and Bootstrap</p>
+<p >A software developer with experience building pixel-perfect web applications and scalable APIs using modern technologies and frameworks. You give me a feature to build, I build it excellently 💪🏽</p>
 
 <h3 style="color: #f2f2f2;">  💻 &nbsp; More About Me </h3>
    
-- ⚡ &nbsp; Fun fact: I love football, chess, and Scrabble
+- ⚡ &nbsp; Fun fact: I love football, chess, and scrabble
 - 😄 &nbsp;Pronouns: He
 
 <br/>
