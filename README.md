@@ -4,7 +4,7 @@
 
 <h3 style="color: #f2f2f2;">  💻 &nbsp; More About Me </h3>
    
-- ⚡ &nbsp; Fun fact: I love football, chess, and scrabble
+- ⚡ &nbsp; Fun fact: I love football, chess, and Scrabble
 - 😄 &nbsp;Pronouns: He
 
 <br/>
@@ -14,7 +14,6 @@
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mr-chidex&show_icons=true&theme=algolia" />
 <img height="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-chidex&layout=compact&langs_count=8&theme=algolia"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-chidex&theme=algolia" />  
 
 </p>
 
